@@ -25,5 +25,5 @@ To use 'img_bright_quadrilateral.py', Run the following from command-line
 ```
 python img_bright_quadrilateral.py -p 'input_im.jpg'
 ```
-(replace input_im.jpg with the path to your JEPG or PNG image file)
+(replace input_im.jpg with the path to your JPEG or PNG image file)
 
