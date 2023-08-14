@@ -1,0 +1,34 @@
+Question -1
+
+####
+Write a Python script that reads a text file, and finds the 4
+lexicographically largest non-overlapping substrings of length 5
+satisfying the conditions:
+1. the substring is contained in a single line, and
+2. the substring is strictly alphanumeric.
+Note that there could be any character immediately before or after the
+substring.
+
+Compute the pair (line_number_in_file, start_index_in_line) for each
+of the 4 substrings. Take the 4 pairs as 4 points in the x-y plane
+that are corners of a quadrilateral, and print its area and its
+perimeter.
+Write test cases.
+It should be possible to run the script from the __main__ section or
+from command line.
+####
+
+
+Question-2
+
+####
+Write a Python script that reads an image from a file as grayscale,
+and finds the four non-overlapping 5x5 patches with highest average
+brightness. Take the patch centers as corners of a quadrilateral,
+calculate its area in pixels, and draw the quadrilateral in red into
+the image and save it in PNG format. Use the opencv-python package for
+image handling. Write test cases.
+It should be possible to run the script from the __main__ section or
+from command line.
+
+####

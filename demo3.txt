@@ -1,0 +1,20 @@
+####
+Write a script that reads a text file, and finds the 4
+lexi#cographically largest non-overlapping substrings of length 5
+satisfying the conditions:
+zzzzz yy6dv xgp0z wvTQ4
+1. the substring is contained in a single line, and
+2. the substring is strictly alphanumeric.
+Note that there could be any character immediately before or after the
+substring.
+
+^%__(!,bch110^66
+
+Compute the pair (line_number_in_file, start_index_in_line) for each
+of the 4 substrings. Take the 4 pairs as 4 points in the x-y plane
+that are corners of a quadrilateral, and print its area and its
+perimeter.
+Write test cases.
+It should be possible to run the script from the __main__ section or
+from command line.
+####
