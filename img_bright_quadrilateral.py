@@ -237,7 +237,7 @@ if __name__ == "__main__":
     parser.add_argument("-c", "--patch_count", type=int, default=4,
                         help="Provide the total number of patches to be fetched")
     parser.add_argument("-l", "--img_save", type=str, default="output_image.png",
-                        help="Provide the total number of patches to be fetched")
+                        help="Provide the location to save the output image")
     args = parser.parse_args()
 
     original_im, grascale_im = read_image(im_path = args.path)
