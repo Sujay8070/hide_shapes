@@ -1,5 +1,5 @@
 # asaph_vision
-Asaphus coding challenge
+CV Coding challenge
 
 Install the requirements
 ```
