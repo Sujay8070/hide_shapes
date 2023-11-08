@@ -1,5 +1,7 @@
 # asaph_vision
-CV Coding challenge
+
+Forming and finding coded shapes (e.g. a quadrilateral) or patterns inside an image or a text paragraph. 
+Real-world applications for authorization and authentication, encryption-decryption in real-time chats or image frames.
 
 Install the requirements
 ```
