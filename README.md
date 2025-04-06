@@ -29,3 +29,5 @@ python img_bright_quadrilateral.py -p 'input_im.jpg'
 ```
 (replace input_im.jpg with the path to your JPEG or PNG image file)
 
+
+PS: An exact submission if this implementation would be respectfully rejected :) An alternate implementation with optimized space and time complexity is expected and would be appreciated. Think about large datasets (> 1 million frames/sequences) to be processed with these functions and update them accordingly. (Hint: use parallel pooling, lossy compression etc.)
